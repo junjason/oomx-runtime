@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/jasonjun/Desktop/oomx_project/build/cmake_install.cmake",
+		"/Users/jasonjun/Desktop/oomx_project/build/runtime/cmake_install.cmake",
+		"/Users/jasonjun/Desktop/oomx_project/build/tools/oomx-bench/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

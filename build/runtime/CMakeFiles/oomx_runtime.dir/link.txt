@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboomx_runtime.a CMakeFiles/oomx_runtime.dir/Runtime.cpp.o CMakeFiles/oomx_runtime.dir/Store.cpp.o CMakeFiles/oomx_runtime.dir/Sow.cpp.o CMakeFiles/oomx_runtime.dir/Schema.cpp.o
+/usr/bin/ranlib liboomx_runtime.a

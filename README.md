@@ -44,19 +44,6 @@ GPU benchmarks are in progress to quantify additional gains in branch efficiency
 
 ---
 
-## 🧬 Repository Layout
-oomx/
-include/oomx/ # Schema / Store / Sow / Runtime headers
-runtime/ # Core runtime implementation
-mlir/ # LLVM/MLIR dialect stubs for future compiler pass
-passes/ # AoS→SoA analysis and lowering pass
-tools/oomx-bench/ # Benchmark harness (gaming + finance sims)
-
-yaml
-Copy code
-
----
-
 ## 🧪 Running the Benchmarks
 
 ### Prerequisites

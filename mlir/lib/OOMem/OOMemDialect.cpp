@@ -5,5 +5,5 @@
 #include <iostream>
 using namespace mlir;
 namespace mlir::oomem {
-struct OOMemDialect : public Dialect { OOMemDialect(MLIRContext* ctx): Dialect("oomem", ctx) {} };
+	struct OOMemDialect : public Dialect { OOMemDialect(MLIRContext* ctx): Dialect("oomem", ctx) {} };
 } // namespace mlir::oomem
